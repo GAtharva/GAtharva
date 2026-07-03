@@ -12,7 +12,7 @@ Hi, I'm Atharva Sanjay Gaikwad! I am currently a first-year student pursuing Dat
 ![](https://nirzak-streak-stats.vercel.app/?user=GAtharva&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAtharva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
