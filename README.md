@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Atharva Sanjay Gaikwad! I am currently a first-year student pursuing Data Science and Business Analytics at the School of Data Science and Business Intelligence. I am passionate about data and currently in my 2nd semester. I have built a foundation in Python (Pandas, NumPy), Java, and Excel. I am currently expanding my skillset by learning R programming, VBA and SQL.
+Hi, I'm Atharva Sanjay Gaikwad! I am currently a first-year student pursuing Data Science and Business Analytics at the School of Data Science and Business Intelligence. I am passionate about data and currently in my 3rd semester. I have built a foundation in Python (Pandas, NumPy), Java, and Excel. I am currently expanding my skillset by learning R programming, VBA and SQL.
 
 
 ## 🌐 Socials:
